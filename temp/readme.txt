@@ -1,0 +1,1 @@
+For each new corpus, the generated files in this folder should be removed.
